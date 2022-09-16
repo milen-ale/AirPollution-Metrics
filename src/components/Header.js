@@ -5,7 +5,7 @@ function TopBar() {
   return (
     <nav className="">
       <div className="header-h1">
-        <h1>Global Air Pollution Index</h1>
+        <h1>Global Air Pollution Metrics</h1>
       </div>
     </nav>
   );

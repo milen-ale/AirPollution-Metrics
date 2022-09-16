@@ -12,8 +12,10 @@ In this project I have built  Air Pollution Index. by using the Latitude and the
   
 ## Live Demo
 
-[Live Demo]()
+[Live Demo](https://632491962139ab5fda8d33c1--helpful-gelato-7d23f6.netlify.app/)
 
+## Presentation Demo
+[here]is a short demo, previewing the app.(https://www.loom.com/share/00259c7c9a18480badc25b154dc96696/)
 ## Getting Started
 
 To use this project you need to clone the repository to your local machine, and open the folder then run npm start in the command line. To use npm start make sure react is installed in your system.
