@@ -1,7 +1,7 @@
 
 # AirPollution-metrics
 
-In this project I have built  Air Pollution Index. by using the Latitude and the Longtude of any location in the world we can see the severity of Air pollution. On the homepage I have included the top 10 countries where the Air Pollution is high.(You can check the ranking
+In this project I have built  Air Pollution Index. by using the Latitude and the Longtude of any location in the world we can see the severity of Air pollution. On the homepage I have included the top  countries where the Air Pollution is high.(You can check the ranking
 
 
 ## Built With
@@ -15,7 +15,7 @@ In this project I have built  Air Pollution Index. by using the Latitude and the
 [Live Demo](https://632491962139ab5fda8d33c1--helpful-gelato-7d23f6.netlify.app/)
 
 ## Presentation Demo
-[here]is a short demo, previewing the app.(https://www.loom.com/share/00259c7c9a18480badc25b154dc96696/)
+[here](https://www.loom.com/share/00259c7c9a18480badc25b154dc96696/) is a short demo, previewing the app.
 ## Getting Started
 
 To use this project you need to clone the repository to your local machine, and open the folder then run npm start in the command line. To use npm start make sure react is installed in your system.
